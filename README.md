@@ -24,24 +24,21 @@ No interactúa con los servidores objetivo.
 No ejecuta escaneos ni pruebas de penetración.
 Sí es útil para OSINT y reconocimiento previo.
 
-🧩 Operadores Compatibles
-"
-Operador  Descripción
-site:     Buscar en un dominio específico
-inurl:    Palabra clave en la URL
-intitle:  Palabra clave en el título
-intext:   Palabra clave en el contenido del texto
-filetype: Buscar tipos de archivo (xls, doc, pdf...)
-ext:      Extensión de archivo
-cache:    Ver versión en caché de una página
-link:     Páginas que enlazan a otra
-related:  Páginas similares
-"..."     Coincidencia exacta
-OR        Búsqueda con operador lógico OR
--         Excluir palabra
-*         Comodín
+🧩 Operadores Compatibles (versión alternativa)
+site: – Buscar en un dominio específico
+inurl: – Palabra clave en la URL
+intitle: – Palabra clave en el título
+intext: – Palabra clave en el contenido del texto
+filetype: – Buscar tipos de archivo (xls, doc, pdf, etc.)
+ext: – Extensión de archivo
+cache: – Ver versión en caché de una página
+link: – Páginas que enlazan a otra
+related: – Páginas similares
+"..." – Coincidencia exacta
+OR – Búsqueda con operador lógico OR
+- – Excluir palabra
+* – Comodín
 
-"
 
 🧪 Ejemplo de Uso
 
