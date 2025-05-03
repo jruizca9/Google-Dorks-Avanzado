@@ -25,7 +25,7 @@ No ejecuta escaneos ni pruebas de penetración.
 Sí es útil para OSINT y reconocimiento previo.
 
 🧩 Operadores Compatibles
-
+"
 Operador  Descripción
 site:     Buscar en un dominio específico
 inurl:    Palabra clave en la URL
@@ -40,6 +40,8 @@ related:  Páginas similares
 OR        Búsqueda con operador lógico OR
 -         Excluir palabra
 *         Comodín
+
+"
 
 🧪 Ejemplo de Uso
 
