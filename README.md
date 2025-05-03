@@ -17,6 +17,11 @@ Generación automática de dorks personalizados.
 Copia al portapapeles, guardado en archivo y apertura directa en Google.
 Extracción de resultados desde Google (títulos solamente).
 Módulo de ayuda con ejemplos útiles.
+Versión .pyw para ejecución sin terminal en segundo plano.
+
+💡 Mejora: Versión .pyw
+
+En sistemas Windows, al ejecutar scripts con la extensión .pyw, la consola no permanece visible en segundo plano. Esto permite una experiencia más limpia y profesional, especialmente para herramientas con interfaz gráfica como esta. Ideal para entornos donde no se desea mostrar la ventana de terminal al usuario.
 
 🔍 Recopilación de Datos Pasiva
 
