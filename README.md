@@ -50,7 +50,7 @@ related: – Páginas similares
 OR – Búsqueda con operador lógico OR
 
 - – Excluir palabra
-- 
+
 * – Comodín
 
 🧪 Ejemplo de Uso
